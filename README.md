@@ -4,7 +4,7 @@ This repository contains several small IOS apps I built while learning Swift &am
 It serves as a learning portfolio to practice building different apps and exploring SwiftUI concepts.
 
 # Repository Structure
-Each App is in its own folder with a README file explaining the app, its features and some screenshots.
+Each App is in its own folder with a README file explaining the concept of the app and some screenshots.
 
 
 ## Technologies Used
